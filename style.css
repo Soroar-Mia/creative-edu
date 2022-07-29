@@ -1,0 +1,18 @@
+
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.anchor{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;    
+}
+
+
+@media (max-width:576px){
+    .compane{
+        display: none;
+    }
+}
